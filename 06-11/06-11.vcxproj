@@ -19,11 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{590CAE61-E226-4AF4-87E2-901FD57D01D5}</ProjectGuid>
+    <ProjectGuid>{55FB448C-7B8B-4FDD-9B47-C08596DA3E68}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>BjarneIdentity</RootNamespace>
+    <RootNamespace>My0611</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>06-09</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -143,7 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="06-09.c" />
+    <ClCompile Include="..\BjarneIdentity\06-11.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

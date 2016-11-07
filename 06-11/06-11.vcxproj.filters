@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="06-09.c">
+    <ClCompile Include="..\BjarneIdentity\06-11.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
